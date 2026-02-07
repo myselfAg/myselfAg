@@ -4,6 +4,9 @@
 <table>
 <tr>
 <td width="60%">
+  
+👋 Hii, I am Agneesh Mozumder <br>
+💼 I am a **Full Stack Developer**
 
 🌱 I’m currently learning **Java**  
 💬 Ask me about **Web Dev, Java**  
